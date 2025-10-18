@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently learning Generative AI<br>👨‍💻 All of my projects are available at https://riddhishwar-portfolio.vercel.app/<br>💬 Ask me about MERN STACK, SEO, MACHINE LEARNING<br>📫 How to reach me riddhishwarmayurie2002@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/12afkiukgMAJcW7PgmnuEpIpaaAQHpgWe/view?usp=drive_link<br>⚡ Fun fact I think I'm crazy.
+🔭 Highly versatile and results-driven Software Engineer of combined experience spanning iOS Mobile Development (Swift/SwiftUI) and
+scalable Full Stack/Cloud Engineering (Node.js, AWS/GCP). Proven expertise in building, optimizing, and deploying mission-critical
+applications for high-growth environments. Adept at driving business results through technical excellence, including 15% CTR
+improvements, successful SDK refactoring, and championing modular architecture (CI/CD, TDD) that reduced build times by 20%.
+Seeking to leverage deep knowledge of mobile performance, cloud infrastructure (Docker, Terraform), and data science principles to lead
+complex engineering challenges.<br>
+📫 How to reach me riddhishwarmayurie2002@gmail.com<br>
+⚡ Fun fact I think I'm crazy.
 
 
 ## 🌐 Socials:
