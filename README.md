@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Generative AI<br>👨‍💻 All of my projects are available at https://riddhishwar-portfolio.vercel.app/<br>💬 Ask me about MERN STACK, SEO, MACHINE LEARNING<br>📫 How to reach me riddhishwarsenthil2002@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/12afkiukgMAJcW7PgmnuEpIpaaAQHpgWe/view?usp=drive_link<br>⚡ Fun fact I think I'm crazy.
+🔭 I’m currently learning Generative AI<br>👨‍💻 All of my projects are available at https://riddhishwar-portfolio.vercel.app/<br>💬 Ask me about MERN STACK, SEO, MACHINE LEARNING<br>📫 How to reach me riddhishwarmayurie2002@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/12afkiukgMAJcW7PgmnuEpIpaaAQHpgWe/view?usp=drive_link<br>⚡ Fun fact I think I'm crazy.
 
 
 ## 🌐 Socials:
