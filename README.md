@@ -1,10 +1,6 @@
 # 💫 About Me:
-🔭 Highly versatile and results-driven Software Engineer of combined experience spanning iOS Mobile Development (Swift/SwiftUI) and
-scalable Full Stack/Cloud Engineering (Node.js, AWS/GCP). Proven expertise in building, optimizing, and deploying mission-critical
-applications for high-growth environments. Adept at driving business results through technical excellence, including 15% CTR
-improvements, successful SDK refactoring, and championing modular architecture (CI/CD, TDD) that reduced build times by 20%.
-Seeking to leverage deep knowledge of mobile performance, cloud infrastructure (Docker, Terraform), and data science principles to lead
-complex engineering challenges.<br>
+🔭 Founding Engineer / Software Engineer with 1+ year of experience building and shipping cloud-native, AI-driven applications across    backend, ML, and full-stack systems. Experienced in designing API-first microservices, document-centric workflows, and scalable infrastructure using Python, TypeScript/Node.js, PostgreSQL, Docker, and AWS. Hands-on with computer vision, OCR pipelines, and AI automation, including object detection and intelligent data extraction for real-world operational use cases. Comfortable working end-to-end—from rapid prototyping to production deployment—while collaborating directly with users to prioritize impact over hype. Driven by fast execution, ownership, and building systems that solve critical compliance and operational problems at scale.
+
 📫 How to reach me riddhishwarmayurie2002@gmail.com<br>
 ⚡ Fun fact I think I'm crazy.
 
