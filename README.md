@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Software Engineer with years of experience building and shipping cloud-native, AI-driven applications across backend, ML, and full-stack systems. Experienced in designing API-first microservices, document-centric workflows, and scalable infrastructure using Python, TypeScript/Node.js, PostgreSQL, Docker, and AWS. Hands-on with computer vision, OCR pipelines, and AI automation, including object detection and intelligent data extraction for real-world operational use cases. Comfortable working end-to-end—from rapid prototyping to production deployment—while collaborating directly with users to prioritize impact over hype. Driven by fast execution, ownership, and building systems that solve critical compliance and operational problems at scale.
+🔭 I’m a backend-focused engineer who enjoys building scalable systems end-to-end, with a strong focus on Go-based services and data-heavy architectures. Most of my recent work has involved designing high-throughput APIs, working with large datasets, and making sure systems remain reliable as they scale.
+
+Alongside that, I’ve been exploring AI-driven workflows — especially around structuring data for LLM use cases (RAG, agents) — which aligns closely with the MCP and analytics direction you mentioned.
+
+I’m also comfortable working across the stack when needed, particularly with React/Next.js on the frontend and with cloud infrastructure (AWS, Docker, Terraform) on the DevOps side. But overall, I bring the most value in backend, data, and system design.
 
 📫 How to reach me riddhishwarmayurie2002@gmail.com<br>
 ⚡ Fun fact I think I'm crazy.
